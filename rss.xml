@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[thirdfloordesign]]></title>
+        <description><![CDATA[thirdfloordesign]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 26 Dec 2015 11:50:23 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Exploring the next web]]></title>
+            <description><![CDATA[<article><h1>Exploring the next web</h1><p>Want to know more about our first explorations of the interweb. Check out our oldschool website first ;)</p></article>]]></description>
+            <link>undefinedexploring-the-next-web/index.html</link>
+            <guid isPermaLink="false">c6190703-702d-4ad9-8557-82fb38119f73</guid>
+            <pubDate>Sat, 26 Dec 2015 11:50:16 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
