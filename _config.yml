@@ -1,20 +1,4 @@
-name: th
-favicon: null
-layout_spectrum: 0.9480975675396621
 typography_spectrum: 0.5566560130100697
-title: thirdfloordesign
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#FF6700'
@@ -26,4 +10,20 @@ color:
   lightness: 0.8795431342441589
   saturation: 0.6960846059955657
   rhythmicContrast: 0.6317309467121959
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.9480975675396621
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: th
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Making things easy
 purpose: []
